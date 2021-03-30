@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "com.github.hjubb"
-val versionString = "0.5.2"
+val versionString = "0.5.3"
 version = versionString
 
 val binomVersion = "0.1.28"
